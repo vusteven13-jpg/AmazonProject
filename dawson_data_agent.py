@@ -40,7 +40,7 @@ warnings.filterwarnings("ignore")
 # ── Configuration ─────────────────────────────────────────────────────────────
 # Set your Anthropic API key here OR export it as an environment variable:
 #   export ANTHROPIC_API_KEY="sk-ant-..."
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") or "sk-ant-api03-xnx710P5cfkwer1w0XKk5_LrQYYVp5BKDmNYoYmr-gryeX73_kNpQjjS5H00FQA5F7u_xgMeN81XT9SKi1SQ15Q-eNg3IQAA"
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") or "sk-ant-api03-g3IQAA"
 
 MODEL_NAME        = "claude-sonnet-4-5"          # Claude model to use
 EMBED_MODEL       = "all-MiniLM-L6-v2"           # Local HuggingFace embedding model
