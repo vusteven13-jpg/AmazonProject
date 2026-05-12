@@ -73,3 +73,12 @@ If files are missing, the script may use synthetic demo data if that is implemen
 - Which categories are underperforming and why?
 - What is our year-over-year growth in 2025?
 - What are customers saying about the Clothing category?
+
+## Dataset Download
+
+Large datasets are not included due to GitHub size limits.
+
+Download them here:
+https://drive.google.com/drive/folders/1kAL3AwHoR5rUl_AAlPQ7sR1xhPZhG0dp?usp=drive_link
+
+Place the files into the project folder before running the code.
